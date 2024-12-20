@@ -1,0 +1,5 @@
+/home/jwd/Programming Project/WQapp/Application/build/CMakeFiles/wqapp.dir
+/home/jwd/Programming Project/WQapp/Application/build/CMakeFiles/edit_cache.dir
+/home/jwd/Programming Project/WQapp/Application/build/CMakeFiles/rebuild_cache.dir
+/home/jwd/Programming Project/WQapp/Application/build/CMakeFiles/wqapp_autogen_timestamp_deps.dir
+/home/jwd/Programming Project/WQapp/Application/build/CMakeFiles/wqapp_autogen.dir
